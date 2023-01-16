@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactQuotes/static/css/main.d8f330e9.css",
+    "main.js": "/ReactQuotes/static/js/main.c9b80bc5.js",
+    "static/css/455.4f5036d6.chunk.css": "/ReactQuotes/static/css/455.4f5036d6.chunk.css",
+    "static/js/455.0ec25522.chunk.js": "/ReactQuotes/static/js/455.0ec25522.chunk.js",
+    "static/js/6.e2e5ebaf.chunk.js": "/ReactQuotes/static/js/6.e2e5ebaf.chunk.js",
+    "static/css/165.94a7d4af.chunk.css": "/ReactQuotes/static/css/165.94a7d4af.chunk.css",
+    "static/js/165.1f9dae60.chunk.js": "/ReactQuotes/static/js/165.1f9dae60.chunk.js",
+    "index.html": "/ReactQuotes/index.html",
+    "main.d8f330e9.css.map": "/ReactQuotes/static/css/main.d8f330e9.css.map",
+    "main.c9b80bc5.js.map": "/ReactQuotes/static/js/main.c9b80bc5.js.map",
+    "455.4f5036d6.chunk.css.map": "/ReactQuotes/static/css/455.4f5036d6.chunk.css.map",
+    "455.0ec25522.chunk.js.map": "/ReactQuotes/static/js/455.0ec25522.chunk.js.map",
+    "6.e2e5ebaf.chunk.js.map": "/ReactQuotes/static/js/6.e2e5ebaf.chunk.js.map",
+    "165.94a7d4af.chunk.css.map": "/ReactQuotes/static/css/165.94a7d4af.chunk.css.map",
+    "165.1f9dae60.chunk.js.map": "/ReactQuotes/static/js/165.1f9dae60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8f330e9.css",
+    "static/js/main.c9b80bc5.js"
+  ]
+}
