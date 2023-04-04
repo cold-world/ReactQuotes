@@ -3,7 +3,7 @@ ReactQuotes.
 
 React, Firebase Realtime DB and Firebase Auth.
 
-Main goal -> auth/login, send data to DB.
+Main goal -> auth/login, send data to DB - add qoutes and add comments to qoutes.
 
 
 * * *
